@@ -2,4 +2,4 @@
 PAEZ RIVAS SERGIO UZIEL
 ## TABLA USUARIOS
 ## BASE DE DATOS
-![BASE DE DATOS]()
+![BASE DE DATOS](https://github.com/SUPaezRivas/bd_Paez_Barberia/blob/main/BASE%20DE%20DATOS.jpg)
