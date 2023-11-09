@@ -5,7 +5,7 @@ PAEZ RIVAS SERGIO UZIEL
 ![BASE DE DATOS](https://github.com/SUPaezRivas/bd_Paez_Barberia/blob/main/BASE%20DE%20DATOS.jpg)
 ## INICIO
 ![INICIO](https://github.com/SUPaezRivas/bd_Paez_Barberia/blob/main/INICIOS.jpg)
-## INICIO
-![INICIO]()
+## USUARIOS
+![USUARIOS](https://github.com/SUPaezRivas/bd_Paez_Barberia/blob/main/USUARIOS.jpg)
 ## INICIO
 ![INICIO]()
