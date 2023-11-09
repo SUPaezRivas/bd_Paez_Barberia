@@ -7,8 +7,8 @@ PAEZ RIVAS SERGIO UZIEL
 ![INICIO](https://github.com/SUPaezRivas/bd_Paez_Barberia/blob/main/INICIOS.jpg)
 ## USUARIOS
 ![USUARIOS](https://github.com/SUPaezRivas/bd_Paez_Barberia/blob/main/USUARIOS.jpg)
-## INICIO
-![INICIO]()
+## INSERTAR
+![INSERTAR](https://github.com/SUPaezRivas/bd_Paez_Barberia/blob/main/INSERTAR.jpg)
 ## INICIO
 ![INICIO]()
 ## INICIO
