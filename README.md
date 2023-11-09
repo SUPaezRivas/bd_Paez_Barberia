@@ -9,7 +9,7 @@ PAEZ RIVAS SERGIO UZIEL
 ![USUARIOS](https://github.com/SUPaezRivas/bd_Paez_Barberia/blob/main/USUARIOS.jpg)
 ## INSERTAR
 ![INSERTAR](https://github.com/SUPaezRivas/bd_Paez_Barberia/blob/main/INSERTAR.jpg)
-## INICIO
-![INICIO]()
+## ELIMINAR
+![ELIMINAR](https://github.com/SUPaezRivas/bd_Paez_Barberia/blob/main/ELIMINAR.jpg)
 ## INICIO
 ![INICIO]()
