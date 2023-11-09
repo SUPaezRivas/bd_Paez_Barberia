@@ -11,5 +11,5 @@ PAEZ RIVAS SERGIO UZIEL
 ![INSERTAR](https://github.com/SUPaezRivas/bd_Paez_Barberia/blob/main/INSERTAR.jpg)
 ## ELIMINAR
 ![ELIMINAR](https://github.com/SUPaezRivas/bd_Paez_Barberia/blob/main/ELIMINAR.jpg)
-## INICIO
-![INICIO]()
+## MODIFICAR
+![MODIFICAR](https://github.com/SUPaezRivas/bd_Paez_Barberia/blob/main/MODIFICAR.jpg)
